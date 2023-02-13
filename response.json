@@ -1,0 +1,1084 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "AcYSjRi_L9v0VaI2Ay49ATMT4lWURQ-KPblQWJezCD_xtG7Ou7delugW-dXElslZKdBhHe0zsfHgz0fl0V9tbwcG9hDFFOmcLaIhRWT1a2DJOA5TAobxE3e_hlxRYtOqBYVJR-JlFbi-Uec9TdZr-E7r_OSfkSl_fz6RMW3OaGNRlzAPqeOY3sxONMPvdZSHVrri21x8Ii2AS9osPlEwvZqpkreonmzvdbDlR-6O2camYNsBLuctPcaXPVXM3Yft7Zo5WreFe_pYaTnJ3ewUbozcwXd_btbZLJMv4rFfc-BVElMvXs8V-gARc0D4sO56_z1gECAP-Q5l2zm64jFjp84Hu3b3C-xDjG4bMYIrWBr2NUTOBbFQIzCsUc6dqg4NKzvQSBj2DuuKZtzq38ukTYs8QY_Larjbud7Hd75v76bjcRhXeK-C9Rqvwrf6O1N3K5bqGScKybJX8Xe3mLAbSsZriPeC85s_GFUfeh_HghmWJZY8djHfM3PL6R_MZw2OaL7NWToUlTaGYdushZdaYgMfk4EA7FSg-qLXBxtOP9QzdwxLs5hVii7rlPuWadoTPv_HCnj8gmENt-NmDqbgSOHp8aUWGIxDvQSuGHH5ku0b14lMK74LgPgtADVC8PwiwkFdhPg8TioJNlS9w8oxF7rWUmR6fVxex5QqwBsR9_8tZ4aUHVsOCDZ-KyLRkejPLho36VMqX8xsW_ukO62gvb8x6s1tRrKnKwamlJpgcB-r6fbUlhvtYBmiTChXCx4a0BZWy7M",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8955 Mira Mesa Blvd Ste B, San Diego, CA 92126, United States",
+         "geometry" : {
+            "location" : { 
+               "lat" : 32.9136714,
+               "lng" : -117.1316611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.91513637989272,
+                  "lng" : -117.1302772701073
+               },
+               "southwest" : {
+                  "lat" : 32.91243672010727,
+                  "lng" : -117.1329769298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114759354164030919175\"\u003eRowan Johnas\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhoUpXXUXmHyfc-kE4WvQjRllnawfyYGrRCJaKpdCQjwr1nTejHZtSiZ6MwVjMnW395lCvZJHIJyksEnCNWbvSitBQ0h7fSVRJKcpbfNWJBndejPan0FlT7g6yFIV-1lOlj8Ov8nrnRbTDiOoHpVPZcNVpg2d8b8MnEk1QBc2fgLpXw",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJQxljRuH424ARfa4Rmw_22zk",
+         "plus_code" : {
+            "compound_code" : "WV79+F8 San Diego, California, USA",
+            "global_code" : "8544WV79+F8"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJQxljRuH424ARfa4Rmw_22zk",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 87
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2220 E Plaza Blvd Ste G, National City, CA 91950, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.6773119,
+               "lng" : -117.0820682
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.67874882989273,
+                  "lng" : -117.0807493701073
+               },
+               "southwest" : {
+                  "lat" : 32.67604917010728,
+                  "lng" : -117.0834490298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113203188634032917195\"\u003eJanrick Santos\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRjL0nTKS9pIVpkMJ-JNrGuMxBT5OFetVyezD6E2fckOA0lg30eHkEoz9omRZiRHxGLYz4pdTJ6H6APHpm4vmwsEpubZfJAHDvu02VvBjWTvIlwiGLmzuyU1s0f1m_hZo9HzTBmqWPDW1Asht2pQ0rK8kQnnuvfPtx4DvXigqHz8kNqO",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJAUtWGydS2YAR1pFOcioWnKg",
+         "plus_code" : {
+            "compound_code" : "MWG9+W5 National City, California, USA",
+            "global_code" : "8544MWG9+W5"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJAUtWGydS2YAR1pFOcioWnKg",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 91
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "285 E Orange Ave, Chula Vista, CA 91911, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.6052062,
+               "lng" : -117.0405647
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.60645992989271,
+                  "lng" : -117.0391750701072
+               },
+               "southwest" : {
+                  "lat" : 32.60376027010727,
+                  "lng" : -117.0418747298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2340,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104121186845661682189\"\u003eNeil Tantay\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRiRZxmypp8blWFyFFra86sKrkpJel30idz404dzDktFW16zDA7bs3_x5adhSoiiSgkQrYTs_el6RvLLG2a8wWXjF9V21GzXJolhXo84R163sSHLRCTCvsEClrm56hKBfW_R3I_BGU8BxJ9Ao4XckicxkIOa9NRyINMbF0RiWbJcM2zy",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJDSs0YORO2YARk2d9PR685XY",
+         "plus_code" : {
+            "compound_code" : "JX45+3Q Chula Vista, California, USA",
+            "global_code" : "8544JX45+3Q"
+         },
+         "rating" : 5,
+         "reference" : "ChIJDSs0YORO2YARk2d9PR685XY",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2015 Birch Rd #1601, Chula Vista, CA 91915, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.6230835,
+               "lng" : -116.9640973
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.62438897989273,
+                  "lng" : -116.9628581201073
+               },
+               "southwest" : {
+                  "lat" : 32.62168932010728,
+                  "lng" : -116.9655577798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJIwZHY3VF2YAReZjzUG4FkAI",
+         "plus_code" : {
+            "compound_code" : "J2FP+69 Chula Vista, California, USA",
+            "global_code" : "8545J2FP+69"
+         },
+         "rating" : 0,
+         "reference" : "ChIJIwZHY3VF2YAReZjzUG4FkAI",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2180 Barranca Pkwy, Irvine, CA 92606, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.698999,
+               "lng" : -117.8365462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.70054812989272,
+                  "lng" : -117.8350336201073
+               },
+               "southwest" : {
+                  "lat" : 33.69784847010727,
+                  "lng" : -117.8377332798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112380601751148977129\"\u003eLeticia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRgn4oq5HC8BmfSA7G__ppGM7o7aggUi5cq_zJhE3SFbNKSaol2lY1DvpsjhOa74ldHQ5LsByi3IFRsDnLYR3qqlDBnB9eSedXBgPVOCJrlrsPNFFsx6EvLSXxrWtoSn9_36mz_e392Hx5BoMRlTMOvgJwMAxkZh00PXNyAMJ1AO1nNO",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJLQ0Mb6Xe3IARRRMkgtGip7k",
+         "plus_code" : {
+            "compound_code" : "M5X7+H9 Irvine, California, USA",
+            "global_code" : "8554M5X7+H9"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJLQ0Mb6Xe3IARRRMkgtGip7k",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 35
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "601 N Euclid St c200, Anaheim, CA 92801, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.8402624,
+               "lng" : -117.9420825
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.84158177989273,
+                  "lng" : -117.9406397201073
+               },
+               "southwest" : {
+                  "lat" : 33.83888212010728,
+                  "lng" : -117.9433393798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108757665313329310721\"\u003eTheSheChef\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRj2BYbjbyB0pcflgv8I0_bmZ8p88hn4Ymqb7hLmxiszRqHwfJZ_GXL6vgFnXRwxSo1xohaZvujQFqmxz3q71dLseCCCfqvak02P4QGLzYLBaKrfVsI1eOBvCCEIFf8xmguSrfUcOJguPJkseMw9ED-ynQoy50MOoEeJXLHiuDns8txz",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJi-DQsu4p3YARLvmqbOegYXc",
+         "plus_code" : {
+            "compound_code" : "R3R5+45 Anaheim, California, USA",
+            "global_code" : "8554R3R5+45"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJi-DQsu4p3YARLvmqbOegYXc",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 118
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "17202 Norwalk Blvd, Cerritos, CA 90703, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.87444139999999,
+               "lng" : -118.0714309
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.87575272989272,
+                  "lng" : -118.0701423201073
+               },
+               "southwest" : {
+                  "lat" : 33.87305307010728,
+                  "lng" : -118.0728419798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112380601751148977129\"\u003eLeticia\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRh1mulo7BNUqyRWL3NTiD3X-7KYXxFfhyLKzQoh_IVvLwbr_spy98bcqquRO_0NIaQLr2eExWNiXTxc2QRJ6ChNVzWehxSiBxHvSqT9ajuXLzJTjOS7U7d9epuC7huufRkTgLVsSh4zykdN_svDl3Eai5TbdaYw0N1aYNTF6KAmLIwo",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJMTBaqwQt3YARLBa5J7fsPc8",
+         "plus_code" : {
+            "compound_code" : "VWFH+QC Cerritos, California, USA",
+            "global_code" : "8553VWFH+QC"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJMTBaqwQt3YARLBa5J7fsPc8",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 84
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "11098 Foothill Blvd Ste 120, Rancho Cucamonga, CA 91730, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.1076211,
+               "lng" : -117.5627328
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.10891197989272,
+                  "lng" : -117.5613540701073
+               },
+               "southwest" : {
+                  "lat" : 34.10621232010728,
+                  "lng" : -117.5640537298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1932,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118084493259776215224\"\u003eDante Castaneda\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRi9piBjXQhLz-gZJE0hX2WQVX9Cd04t2jBAxcS_twj2L1D7xf8bWeVFEyRQIlqHE5Bka1YrMKASrB-KJN4_iTtF17Ija1u6fyUIYDCT1gmT0fOMiZONcJ7vxtUC3pU5XRZy3vL8FI9xQjGwMC7CdBcDAGQjjz1Lv-Yuqy9H0YUVBvBO",
+               "width" : 2576
+            }
+         ],
+         "place_id" : "ChIJW7LbW-M1w4ARsTqg2rBs-aI",
+         "plus_code" : {
+            "compound_code" : "4C5P+2W Rancho Cucamonga, California, USA",
+            "global_code" : "85644C5P+2W"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJW7LbW-M1w4ARsTqg2rBs-aI",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 45
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1525 Amar Rd, West Covina, CA 91792, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0317414,
+               "lng" : -117.912834
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.03299572989272,
+                  "lng" : -117.9115721701073
+               },
+               "southwest" : {
+                  "lat" : 34.03029607010728,
+                  "lng" : -117.9142718298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102217708465096678858\"\u003eRev S\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhRDvkzxWWvfAT0LDD7FrfaQM9p3a56gesyDNS17kN8aHV296DXuEpPkoA8ruMWYmaM283xmc-Uztwe9fQYeDWVBkyXC_e7_ncY7cNFao_rIni6dzy3Dta2SG-U3ue77fbd-ZSTjpzb2i5U3mPUVOcePA2FnA4z8ZXRl3ZA7Om9rBLU",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJNzi4Vfcpw4AR9mthmrPoHtg",
+         "plus_code" : {
+            "compound_code" : "23JP+MV West Covina, California, USA",
+            "global_code" : "856423JP+MV"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJNzi4Vfcpw4AR9mthmrPoHtg",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 122
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "131 W Carson St, Carson, CA 90745, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.8320712,
+               "lng" : -118.2796987
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.83322647989272,
+                  "lng" : -118.2781952201073
+               },
+               "southwest" : {
+                  "lat" : 33.83052682010728,
+                  "lng" : -118.2808948798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2278,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108189405516795855078\"\u003eMichael C\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRh76U0mc9cBNwTuA7Ax86rUEqh3eXArgrNU5dMsFcG_hjstPkJuHXL-BU4Zwr5aj-tKC6Zk2jsyjSuTjywSHQl4ZFyNOgUt2k0HtMvcmcs_gnW9UmJ__nstu5Yo51zDsorlifA0BwFlZAP4W3FFNz2tBhlm_8FUpO9bsm0LzSOtQ7AW",
+               "width" : 2842
+            }
+         ],
+         "place_id" : "ChIJ8WJlZ2o13YAR0-kzDaSrOyw",
+         "plus_code" : {
+            "compound_code" : "RPJC+R4 Carson, California, USA",
+            "global_code" : "8553RPJC+R4"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ8WJlZ2o13YAR0-kzDaSrOyw",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 101
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "138 S Vermont Ave, Los Angeles, CA 90004, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.0717241,
+               "lng" : -118.291312
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.07312852989273,
+                  "lng" : -118.2900219201073
+               },
+               "southwest" : {
+                  "lat" : 34.07042887010729,
+                  "lng" : -118.2927215798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1440,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102150889143711626742\"\u003eb mordeno\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhwHoR496dpHmMxeJV5u_z-IJga1Vav__zibEZVYsSt9WSgKq_l-dwxXSwDb4mPM0-86rdlrC3zABMSEouEBNQoiAb_h1kjqDhh6AGpFV2L-9hNMfHXzAB2CnBVuXVwu06_CLue8Ag1RtlsHQy0UcBXwGRhyI4vW97L_PCtea_z_Y-r",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ1cOsm2bHwoARGcZTx4z7WAg",
+         "plus_code" : {
+            "compound_code" : "3PC5+MF Los Angeles, California, USA",
+            "global_code" : "85633PC5+MF"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ1cOsm2bHwoARGcZTx4z7WAg",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 121
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "914 E Colorado St, Glendale, CA 91205, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.1422817,
+               "lng" : -118.24367
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.14370492989273,
+                  "lng" : -118.2423167701073
+               },
+               "southwest" : {
+                  "lat" : 34.14100527010729,
+                  "lng" : -118.2450164298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104096215628508149165\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRg51nhRdaSYrKI5v8cthnTn4vZrB7PpLoqwrPOySz2hX9mt1Atqt_M4d-iUkRGl8Se8ua78xJ0yg6-uC1YGYe39iEmXmaxeV3tN0CdKZMWsTuw8tuhJ8wWjzujdAJ2bKk1becmKTgH3m8ImYzh_A80ew1mx9rzFEGJJiwAiaTTc1xoE",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJV56YrAXBwoAR43R7s_b-ZnI",
+         "plus_code" : {
+            "compound_code" : "4QR4+WG Glendale, California, USA",
+            "global_code" : "85634QR4+WG"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJV56YrAXBwoAR43R7s_b-ZnI",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 193
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "8231 Woodman Ave Suite B, Panorama City, CA 91402, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.2205497,
+               "lng" : -118.4332829
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.22192667989273,
+                  "lng" : -118.4318120701073
+               },
+               "southwest" : {
+                  "lat" : 34.21922702010729,
+                  "lng" : -118.4345117298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101401753179849549417\"\u003eJoy Santos\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRiMYbvZdLRM23wXMbEEMRzjocMW_HA1uwvPUGdaeSyCoq-1wcObiPfPY0NRhfafNPA14YDO1Rb_GzTGmsweEcfQPiMabU_uJX-KocjZtJCz1IpIVk-Mk6XAdPYwBUBxVCrXBTWRP4uJukhtClE57jNxzU2N_LaN79j1tC-9F8C0EwCz",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJgydP49OWwoAR2m2ZhhQ8ePE",
+         "plus_code" : {
+            "compound_code" : "6HC8+6M Panorama City, Los Angeles, CA, USA",
+            "global_code" : "85636HC8+6M"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJgydP49OWwoAR2m2ZhhQ8ePE",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 118
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1941 N Rose Ave Suite 680, Oxnard, CA 93036, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 34.2192808,
+               "lng" : -119.1601716
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.22071092989273,
+                  "lng" : -119.1588597201073
+               },
+               "southwest" : {
+                  "lat" : 34.21801127010728,
+                  "lng" : -119.1615593798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110512150408845886535\"\u003eJason de Leon\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRjPAm3H8b1rZ_PRFIdTAdCfx0I0e2Tsgx1l5rJ5lTOq_5N4VNQMVPCoQVogLoCWCBJfbaah8m5D3-7pOnNCf4mnPGhpnIT6SAzkFr44zvrFwfOwcR96ckGJqnEQuuP8ruyjzQv_tOwqaHgQURu4SU6FSnUr97wSLrlzEy6vyMYYHeA5",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJCUI-zfdN6IARLdoYhOsH2Zc",
+         "plus_code" : {
+            "compound_code" : "6R9Q+PW Oxnard, California, USA",
+            "global_code" : "85626R9Q+PW"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJCUI-zfdN6IARLdoYhOsH2Zc",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 19
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5624 Stockdale Hwy, Bakersfield, CA 93309, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.3552362,
+               "lng" : -119.0641979
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.35651052989272,
+                  "lng" : -119.0628346201073
+               },
+               "southwest" : {
+                  "lat" : 35.35381087010728,
+                  "lng" : -119.0655342798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117169645802603713785\"\u003ejanie Flores\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhZJE6fs6HnLxFLW2ouJwVu1CykGbY26kGhvzMCymSzcp8xXk7lrrCJMa9hgw-Kpo7blAjIQm7b6qmWfd2xfcdPDz5WT-g77KPOcAfpv2UPAPLJzpu1a3OSqTsJ1d30DOnwt3tMikjKpzKWKADJd5gwnw1UiZlfdBqGVlzr086Dzk1l",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJidTxMDVB6oARTGXqOFKoyIQ",
+         "plus_code" : {
+            "compound_code" : "9W4P+38 Bakersfield, California, USA",
+            "global_code" : "85729W4P+38"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJidTxMDVB6oARTGXqOFKoyIQ",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 27
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "7230 Arroyo Crossing Pkwy C200, Las Vegas, NV 89113, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.0645529,
+               "lng" : -115.2505205
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.06588277989272,
+                  "lng" : -115.2490952701073
+               },
+               "southwest" : {
+                  "lat" : 36.06318312010728,
+                  "lng" : -115.2517949298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106209189647370527860\"\u003eChristian Strauss\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRjCpY2t5tWclYVIiDWzBHdTmj6g6qcauUcOy9egllFy430ceATAb3HBP6I4fX2zq1ASDv9YCIoZA5esuNdr59XUdRuEBmf2CgpNJJsZDmHdtutixb8RHm53UnXUJesKGiTF8b3CZr0N4oo9oUHbFJu49TPHGdaYu3ZB2I4QbpCUQTFc",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJW7G04v_HyIARLQv9W1Atoys",
+         "plus_code" : {
+            "compound_code" : "3P7X+VQ Las Vegas, Nevada, USA",
+            "global_code" : "85863P7X+VQ"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJW7G04v_HyIARLQv9W1Atoys",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 22
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "10405 S Eastern Ave #105, Henderson, NV 89052, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 35.9998523,
+               "lng" : -115.1079544
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.00130817989272,
+                  "lng" : -115.1065039201073
+               },
+               "southwest" : {
+                  "lat" : 35.99860852010728,
+                  "lng" : -115.1092035798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1800,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103422205165043309492\"\u003eAtif Saadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRhUOFfBmTBzo2i2I7pDdXgSsgkvi9t4AEbo8_7obMDa1XT5GkwGXbMmcPH7e_Zy4xAtMxZFbm4EJONnt5CdBKhRSq_hsPeABF6hbCVrmqE8LGNkKST8gjo-FSJugmXxg_52RHizg9zSiw0uZXMM2wmxRrFHAfMdieK--FEcq3vYRwTc",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ_5FXT07PyIARZNyLjeySkWg",
+         "plus_code" : {
+            "compound_code" : "XVXR+WR Henderson, Nevada, USA",
+            "global_code" : "8576XVXR+WR"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJ_5FXT07PyIARZNyLjeySkWg",
+         "types" : [
+            "bakery",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3890 S Maryland Pkwy, Las Vegas, NV 89119, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.1181476,
+               "lng" : -115.135659
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.11951647989272,
+                  "lng" : -115.1345364201073
+               },
+               "southwest" : {
+                  "lat" : 36.11681682010727,
+                  "lng" : -115.1372360798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115498833621804175334\"\u003eAloun Siharath\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRgdr2vj8zdAZmFdOetkLniioT7HAsqCJT7G2OKIQ9T-flpjGOWae50r_Ac1OBlcAQL5yheE6fpXq-3q_c3R5oB0N6tmC3OosQ9wuj7bB8LXZsHnSXvS7ogbejaTefFjk3JDEnIjcstBM_JLF2k38dO1DtnzkZI2UaTSnqs_F7TZmYyP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ84seffnEyIAR_BlhS1GmRYI",
+         "plus_code" : {
+            "compound_code" : "4V97+7P Las Vegas, Nevada, USA",
+            "global_code" : "85864V97+7P"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ84seffnEyIAR_BlhS1GmRYI",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 89
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6435 N Decatur Blvd, Las Vegas, NV 89131, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.2770978,
+               "lng" : -115.2094234
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.27848252989273,
+                  "lng" : -115.2081708201073
+               },
+               "southwest" : {
+                  "lat" : 36.27578287010729,
+                  "lng" : -115.2108704798928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113477851764322711351\"\u003eRachel Stephens\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRgogC_mjAtnwN7GSVY_g6M14zKjhhtx6OwehQ5BYxv1pyTLulespbFVrBwNVzm4K7F1IvTR0l-0zH9ds7I7ixIzjSPiZFgFLwlKMRKQUv6IbWu5p4ldZ121EHWN7wWw-AOodHjhU_jLC_09_SlO_Acmm3grbg2bFF6jOJKOpLfjrR6Y",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJxS91_m7ryIAR8bA6xanHvt0",
+         "plus_code" : {
+            "compound_code" : "7QGR+R6 Las Vegas, Nevada, USA",
+            "global_code" : "85867QGR+R6"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJxS91_m7ryIAR8bA6xanHvt0",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 17
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1535 Landess Ave Unit 122-124, Milpitas, CA 95035, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.4168678,
+               "lng" : -121.8768922
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.41801692989272,
+                  "lng" : -121.8755424201073
+               },
+               "southwest" : {
+                  "lat" : 37.41531727010728,
+                  "lng" : -121.8782420798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Red Ribbon Bakeshop",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106048594040559266687\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "AcYSjRgr0E2cORhMjnt9qSMtL_qaBdSkyW9-I-SQZ4KcVKnKZpKm8khCJ7Qi0PBVBbuS9OO2RhgX1unlw6nUxixGTckKPpOA0Yhx2L8lXrWkS4KlY9I1XvV1ZpQOk-QHgl3VNTXC82bUbqJwl17pnuoqehEBqpccilVXtbpGMoGGTIyAHr1k",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJhRqEkSTPj4ARZhGnBjlcCQU",
+         "plus_code" : {
+            "compound_code" : "C48F+P6 Milpitas, California, USA",
+            "global_code" : "849WC48F+P6"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJhRqEkSTPj4ARZhGnBjlcCQU",
+         "types" : [
+            "meal_takeaway",
+            "bakery",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      }
+   ],
+   "status" : "OK"
+}

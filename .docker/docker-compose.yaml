@@ -1,0 +1,10 @@
+version: '3'
+services:
+    airflow-webserver:
+      volumes:
+        - ../dags:/opt/airflow/dags
+        - ../.airflow/logs:/opt/airflow/logs
+      ports: 
+        - 9090:8080
+      build:
+        context: .
